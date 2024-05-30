@@ -1,0 +1,12 @@
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\bin\Debug\PR6.2.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\bin\Debug\PR6.2.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\bin\Debug\PR6.2.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6.2.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6._2.Form1.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6._2.Properties.Resources.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6.2.csproj.GenerateResource.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6.2.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6.2.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6._2.Form2.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Лукашевич\PR6.2\obj\Debug\PR6._2.Form3.resources
